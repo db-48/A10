@@ -104,6 +104,7 @@ article img{
     border: 1px solid black;
 }
 article h2 {
+    font-size: 110%;
     padding-top: 0;
     color: black;
 }
